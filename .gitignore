@@ -2,6 +2,16 @@
 Thumbs.db
 ehthumbs.db
 
+
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
 # Folder config file
 Desktop.ini
 
@@ -26,7 +36,8 @@ $RECYCLE.BIN/
 .LSOverride
 
 # Icon must ends with two \r.
-Icon
+Icon
+
 
 # Thumbnails
 ._*
